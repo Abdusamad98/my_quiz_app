@@ -1,1 +1,3 @@
-class MyAppTheme {}
+class MyAppTheme {
+
+}
